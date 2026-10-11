@@ -1,4 +1,4 @@
-# Hợp Đồng Bảo Trì & Quản Lý Thiết Bị Lab (W05A)
+# W5 - Hợp Đồng Bảo Trì & Quản Lý Thiết Bị Lab
 
 ## Các tính năng chính
 - **Quản lý thiết bị đa dạng:** Hỗ trợ lưu trữ và quản lý `Máy tính` (Computer), `Máy in` (Printer), và `Máy chiếu` (Projector).
